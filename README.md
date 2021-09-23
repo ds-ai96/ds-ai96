@@ -1,5 +1,3 @@
-느리더라도, 꾸준하게!!
-
 ### MSc Student
 - Dept. Data Information in Republic of Korea.
 
