@@ -1,9 +1,11 @@
-### MSc Student
-- Dept. Data Information in Republic of Korea.
+# Jaehyeon Choi
+
+### Ph.D. student in Data Mining Lab
+- Dept. of Computer Science and Engineering, Seoul National University (SNU)
 
 ### Interest
-- AI
 - Recommender System
+- Model Compression (CNN, LLM)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ds-ai96)](https://github.com/anuraghazra/github-readme-stats)
 
